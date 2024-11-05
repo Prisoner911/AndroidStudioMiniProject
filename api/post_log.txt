@@ -1,0 +1,5 @@
+Array
+(
+    [userid] => aFqhuZoWILarQvG2ljHj1NS2Uxx1
+    [username] => Jane Doe
+)

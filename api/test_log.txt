@@ -1,0 +1,2 @@
+Query String: userId=1
+User ID: 1
