@@ -2,6 +2,8 @@
 
 This is a very novice and beginer level project. We tried making an E Commerce App for Camping Equipment.
 
+THIS PROJECT IS IN JAVA
+
 Requirement to run this project.
 XAMPP, Android Studio, and some knowledge of PHP.
 
