@@ -10,6 +10,9 @@ Steps to follow to run this project:
 2) Install XAMPP.
 3) Now open XAMPP and start Apache Server and MySQL server.
 4) Now open Android Studio and import this project.
+5) Make sure to put your ip address at the urls where http request are being called.
+6) eg. http://10.0.2.2/path_to_your_api.php. 10.0.2.2 is a local ip for android studio. Something like localhost.
+7) Also, there are php api scripts which you have to place in C:/XAMPP/htdocs.
 
 By the time you import this project, if there are any new updates in Android Studio which might make some functions used in this project obsolete, you will have to search alternatives for them.
 Cheers.
